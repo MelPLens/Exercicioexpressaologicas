@@ -1,0 +1,2 @@
+# Exercicioexpressaologicas
+o repositório 

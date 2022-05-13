@@ -1,4 +1,4 @@
-#####EXERCÍCIOS EXPRESSÕES LÓGICAS  
+##### Expressões Lógicas  
 >Início 
 Enquanto para idoso? PODE estacionar na vaga especial. 
 Quanto ao PCD ? PODE estacionar na vaga especial. 
